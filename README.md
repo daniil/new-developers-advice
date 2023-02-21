@@ -34,6 +34,11 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - or starting with technology that you want to learn and coming up with simple example. 
   - At the end of the day a lot of us are developers first and foremost. We are not expected to come up with amazing product ideas; we are expected to solve problems with technology.
 
+- It's a good idea to "build in public", especially if you love writing and if not, that's a good opportunity to improve your communication skills. What "build in public" means is keeping progress of your learning and project work, be it through a blog, twitter, videos or other medium. There are couple of benefits: 
+  - Explaining your thought process and breaking down technical aspects are a very important skill set build
+  - Keeping a record of your solutions allows you to easily go back and find it in the future if you ever run into a similar issue. And we all usually do.
+  - It's another way to build your personal brand, show your passion for the field and be noticed by a potential employer
+
 - Familiarity with cloud (cloud functions, edge, AWS services ie: S3, deployment (CD, CI)) would be a good thing to add to your resume and generally understand on a very high level, but it also isn't an expectation for junior developers to be DevOps engineers
 
 - Start familiarizing yourself with [higher level of software development cycle](https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c)
