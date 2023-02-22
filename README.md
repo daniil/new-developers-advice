@@ -14,6 +14,23 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 
 ## Advice
 
+### Learning Early On
+
+- When learning to program, you are not just learning a particular programming language or syntax. You are learning how to think programmatically - the ability to break bigger problem down into small problems and work out the solution for it step by step. 
+  - This makes it extra tough at first because you are learning too complex skills at the same time
+  - This also makes you be able to learn other programming languages down the road more approachable, as they'd be using a lot of very similar concepts
+  - Be patient with yourself. Don't get too wrapped up in expectations of how long it "should" take you to learn something. Take your time, it takes time to internalize these complex concepts
+  - [Excellent article on how to learn stuff quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/)
+
+- It can be helpful to figure out learning method that works best for you, but don't be afraid to switch it up based on the context or complexity. You might want to start with a video for crash course but get into text content or interactive tutorial for deeper understanding.
+
+- Reading documentation can be overwhelming at first, but it's often the best resource to understand a language, library or framework. What you are looking for in terms of being effective at it, is being able to skim through the content to find the parts relevant to you, rather than having to read the whole page. At first it can be very hard, but with practice you will get better at it.
+
+- Googling for help can be intimidating and frustrating. How do you know what to search for? The answer is that at first you don’t know what to search for, so you take an initial naive "seed" query and continuously refine it as you discover repeated terms.
+
+- Watching someone else code is terrible for retaining information. Whenever you go through lectures, tutorial, getting started or demos, always take notes or better yet write out the code yourself. Don't wait to apply concepts, always practice everything you learn immediately.
+
+
 ### Learning New Things
 
 - If you just completed a bootcamp, a guided course or any other version of organized content, it will always pay off to review existing content, examples and demo code and get deeper understanding of it
