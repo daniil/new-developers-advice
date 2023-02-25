@@ -115,6 +115,11 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 
 ### Interview Process
 
+- Prepare yourself for the interview as much as you can
+  - Do some research on the company you are applying. What is their mission? What are their values? What does their product do or what are their services?
+  - What does their interview process look like? Google or Glassdoor can help with that, but don't hesitate to ask your recruiter for details on how you can prepare the best. That's only gonna work in your favour.
+  - Come prepared with the questions back. "Do you have any questions for us?" is not an optional interview question; show your interest, preparation and forethought.
+
 - Recruiting is expensive. It's in recruiters' interest to hire someone as soon as possible. 
   - They are on your team, not working against you. Leverage that. Help them help you by asking the questions and being curious and open about the process. 
   - If you are getting weird vibes about the interview process you are likely dodging a bullet anyway.
@@ -125,6 +130,7 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - Treat interviews as a two-way conversation, be curious, have follow up questions, don't be afraid to show your personality. Simply enjoying the process of the interview and showing that you are happy to be there and engage fully is a huge green flag for the interviewer.
 
 - Practice talking about the projects you've done
+  - One of the biggest interview challenges for junior devs is to put the work you've done into context. Take the time to reflect on your school or self-guided work and distill some learnings and takeaways from that work.
   - Practice talking in technical terms
   - Practice breaking the project down and explaining it in non-technical terms
   - Practice talking about challenges and learnings of the projects
