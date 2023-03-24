@@ -50,6 +50,7 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - creating a product and picking technology that will serve the requirements well 
   - or starting with technology that you want to learn and coming up with simple example that you can continue expanding on as you are learning the new concept. 
   - At the end of the day a lot of us are developers first and foremost. We are not expected to come up with amazing product ideas; we are expected to solve problems with technology.
+  - There are also platforms like [Frontend Mentor](https://www.frontendmentor.io/) that can help you with the project ideas, that you can also get feedback on as well as practice code reivews yourself.
 
 - It's a good idea to "build in public", especially if you love writing and if not, that's a good opportunity to improve your communication skills. What "build in public" means is keeping progress of your learning and project work, be it through a blog, twitter, videos or other medium. There are couple of benefits: 
   - Explaining your thought process and breaking down technical aspects are a very important skill set to build.
