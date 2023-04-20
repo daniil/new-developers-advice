@@ -4,7 +4,7 @@
 
 I've been doing regular mentorship sessions on [ADPList](https://adplist.org/mentors/daniil-molodkov) for a bit now and a lot of common topics and questions have been coming up, that I kept record of.
 
-Also, being in an educator role for a while, very similar conversations come up on a daily basis.
+Also, being in an [educator role](https://brainstation.io/) for a while, very similar conversations come up on a daily basis.
 
 The purpose of this repo is simple - to help me remember and organize these conversations and provide some insights to a larger audience.
 
@@ -43,6 +43,15 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 - Best way to learn is to build things, not watch other people build things, aka Tutorial Hell.
 
 - Everyone gets stuck in "tutorial hell" once in a while. While you gotta learn from somewhere, make sure you do more of writing code yourself than watching other people code. You can make every tutorial project your own by changing it up, having your own data-set or entities or adding your own features.
+
+- Using AI tools (ie: ChatGPT, GitHub Copilot) can be a double edged sword.
+  - While AI can generate code for you easily (ie: boilerplate, new feature, a chunk of functionality) it is not the expert, you are. It is important that you apply your own critical judgement to the quality of that code and tweak it to your needs.
+  - Crucial to the previous point, understanding fundamentals, the why and how of the code isn't something AI will replace. It is especially important for new developers to build solid fundamentals, learn to think critically and understand how to hand craft their code before using tools that help with that.
+  - Thinking of AI as just another tool is a good way to approach it. You need to apply judgement on when it's beneficial to you and when you are using it to your own detriment. Often doing things harder more manual way pays off in knowledge dividends.
+  - There are many great use cases for it of course!
+    - Using it as a tutor (ie: "explain this concept to me")
+    - Using it as a debugger for broken code (ie: "what's wrong with this code"). Important note - make sure you understand what was broken about that code once fixed, and make a mental note for the future.
+    - Asking it to refactor your own code. Same note - evaluate the changes, assess why might they be better, why you wrote your code differently, is there a more readable version somewhere in the middle.
 
 - Don't be afraid to "break stuff". That's where a lot of learning happens. Don't be precious about your code, learn from error messages, re-write your stuff when it starts to get messy; no one writes perfect code on the first try.
 
