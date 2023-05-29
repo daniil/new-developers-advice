@@ -52,6 +52,9 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
     - Using it as a tutor (ie: "explain this concept to me")
     - Using it as a debugger for broken code (ie: "what's wrong with this code"). Important note - make sure you understand what was broken about that code once fixed, and make a mental note for the future.
     - Asking it to refactor your own code. Same note - evaluate the changes, assess why might they be better, why you wrote your code differently, is there a more readable version somewhere in the middle.
+  - Long term thinking living in the post-AI world requires us to be smart about skills we acquire.
+    -  Generative AI is truly a jack of all trades: good knowledge on everything, but the best on nothing.
+    -  Knowing that these tools are here to stay, you will benefit from becoming a domain expert - having deep knowldge in your area of interest but striving to be a [generalizing specialist](http://agilemodeling.com/essays/generalizingSpecialists.htm)
 
 - Don't be afraid to "break stuff". That's where a lot of learning happens. Don't be precious about your code, learn from error messages, re-write your stuff when it starts to get messy; no one writes perfect code on the first try.
 
