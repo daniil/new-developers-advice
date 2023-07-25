@@ -86,6 +86,7 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 
 - Couple of other ways to make your projects closer to real work environment:
   - Build projects collaboratively with other developers or UX designers.
+    - Great platforms to help you find collaborators are [Co.Lab](https://www.joincolab.io/) and [Collab Lab](https://the-collab-lab.codes/)
   - Build projects using agile methodology with GitHub projects or Trello.
   - Recreate dribbble sites or any popular applications.
   - Ask your immediate network for any work they might need help with; this will count for "real projects", as you are doing freelancing. Even if they don't need a "real" site, that can spark inspiration for a project that will be solving a real need.
