@@ -155,6 +155,10 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - Practice talking about your work in technical terms.
   - Practice breaking the project down and explaining it in non-technical terms.
   - Practice talking about challenges and learnings of the projects.
+ 
+- Behavioural interviews are not just to confirm that you're not a crazy person.
+  - Companies look for insight your communication skills and you being able to talk about your work experiences and distilling the outcomes from them
+  - A good reference point is [Amazon's Leadership Principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles); prepare 1 or 2 stories for each of these principles to talk about. If you are missing any, that's an excellent growth and learning opportunity, work on it.
 
 ### Growing as a Developer
 
