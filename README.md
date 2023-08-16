@@ -119,6 +119,12 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - Have several people look over your resume to provide some feedback or catch mistakes.
   - Optimize your resume for 10-30 second viewership.
   - Test your resume for Applicant Tracking Software performance.
+ 
+- After you've applied to a position, consider following up with LinkedIn message or email to company hiring manager or CEO.
+  - Things you can touch on in the message: re-iterate that you've applied for the role, why you think you could be a good fit for the role and explain why you're interested in the company.
+  - Isn't it too much or too desperate?
+    - Majority of applicants are less likely to do this, so this makes you stand out for going the extra step to follow up on why you are the person they should hire.
+    - This shows you've done your research, and are committed to go the extra step to help the recruiting manager find the right person for the job.
 
 - You should practice whiteboarding questions and technical questions, but that should be a smaller ratio compared to building things. 
   - LeetCode easy questions are often more than enough for a good chunk of jobs. 
