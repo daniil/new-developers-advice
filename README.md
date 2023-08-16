@@ -112,6 +112,13 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - As a nice side effect, connecting with people can always lead to them thinking of you when their company is hiring.
 
 - For your resume and LinkedIn, where possible, [include action verbs and quantify your responsibilities](https://drexel.edu/scdc/professional-pointers/application-materials/resumes/experience-description/).
+  - Stick to a single page resume, simply styled. 
+  - Proof read your resume several times for grammar, spelling, wording and correct technology names.
+  - Do not get tempted to list every possible skill you might have touched without being able to provide proof to your experience and expertise.
+  - When describing your experience, avoid wordiness or fluff words, be concise. Stick to one line bullets below each job title.
+  - Have several people look over your resume to provide some feedback or catch mistakes.
+  - Optimize your resume for 10-30 second viewership.
+  - Test your resume for Applicant Tracking Software performance.
 
 - You should practice whiteboarding questions and technical questions, but that should be a smaller ratio compared to building things. 
   - LeetCode easy questions are often more than enough for a good chunk of jobs. 
