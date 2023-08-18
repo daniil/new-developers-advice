@@ -150,6 +150,7 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 ### Interview Process
 
 - Prepare yourself for the interview as much as you can.
+  - Be prepared for [common interview questions](https://www.monster.com/career-advice/article/100-potential-interview-questions); think of the examples from your career ahead of time, so you're not caught off guard in the interview.
   - Do some research on the company you are applying to. What is their mission? What are their values? What does their product do or what are their services?
   - What does their interview process look like? Google or Glassdoor can help with that, but don't hesitate to ask your recruiter for details on how you can prepare the best. That's only gonna work in your favour.
   - Come prepared with some questions to ask back. "Do you have any questions for us?" is not an optional interview question; show your interest, preparation and forethought.
