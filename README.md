@@ -110,6 +110,8 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - You never know who you will connect with to help you find the job.
   - Don't even ask about jobs or if they are hiring, show interest in what they or their company do, what advice they have for looking for jobs or what they look for when they are hiring. 
   - As a nice side effect, connecting with people can always lead to them thinking of you when their company is hiring.
+ 
+- [Glassdoor Community](https://www.glassdoor.com/Community/index.htm) can be a great way to get some insights on the industry, as well as ask for specific help with resume / job search / etc.
 
 - For your resume and LinkedIn, where possible, [include action verbs and quantify your responsibilities](https://drexel.edu/scdc/professional-pointers/application-materials/resumes/experience-description/).
   - Stick to a single page resume, simply styled. 
