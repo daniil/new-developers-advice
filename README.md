@@ -14,6 +14,17 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
 
 ## Advice
 
+### Starting From nil
+
+- If you're just starting your developer journey or want suggestions for guided learning paths, here are some of the programs that will provide you with more structure:
+  - [Developer Roadmaps](https://roadmap.sh/)
+  - [Scrimba](https://scrimba.com/)
+  - [The Odin Project](https://www.theodinproject.com/)
+  - [100 Devs](https://leonnoel.com/100devs/)
+  - [boot.dev](https://www.boot.dev/)
+  - [Formation](https://formation.dev/)
+- These are in no particular order and the reason they made the list is trivial in a best way - they all came up in a positive way in several conversations.
+
 ### Learning Early On
 
 - When learning to program, you are not just learning a particular programming language or syntax. You are learning how to think programmatically - the ability to break bigger problem down into small problems and work out the solution for it step by step. 
