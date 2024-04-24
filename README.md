@@ -12,6 +12,8 @@ With time I will continue to expand and refine this advice, with the goal of mak
 
 Topics are going to be pretty general and varied: learning effectively, mindset, job search, interview process, staying relevant, and many more.
 
+While some of this advice is, hopefully, universally applicable, I mostly share my experience as a Full-Stack JS Developer, so a lot of advice is provided through that lens.
+
 ## Advice
 
 ### Starting From nil
@@ -24,6 +26,7 @@ Topics are going to be pretty general and varied: learning effectively, mindset,
   - [boot.dev](https://www.boot.dev/)
   - [Formation](https://formation.dev/)
 - These are in no particular order and the reason they made the list is trivial in a best way - they all came up in a positive way in several conversations.
+- For a great overview of very detailed breakdown of all concepts needed for Front-End Development (with a ton of helpful deep dive links), highly recommend the [Front-End Handbook](https://frontendmasters.com/guides/front-end-handbook/2024/) from [Frontend Masters](https://frontendmasters.com/).
 
 ### Learning Early On
 
