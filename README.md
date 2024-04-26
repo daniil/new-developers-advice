@@ -212,3 +212,7 @@ While some of this advice is, hopefully, universally applicable, I mostly share 
   - It's your personal journey, with your own timeline and challenges. Besides, there is no finish line, but just continuous learning. 
   - Enjoy the process of bettering yourself and a healthy version of comparison is to compare your today self with the yesterday self.
   - It's hard to stop yourself from feeling overwhelmed, jealous, incompetent, etc. But you can practice chanelling these feelings into something more productive: inspiration, curiosity, enjoying the process of learning new things, finding focus, contributing to other people's growth and success, etc.
+ 
+- Don't think of your career as a straight line. Instead, use [The Tarzan Method](https://theengineeringmanager.substack.com/p/the-tarzan-method).
+  - It's good to think about your ultimate destination (short or long term), but the path to get there won't be immediately clear and that is OK. Consider what career move is right for you at any given time and swing to it. The cool thing is that it'll ensure you'll be on the path that is unique to you. You will find out what really matters to you.
+  - To quote the article, "You may find that you love a particular type of work, or a particular type of company, or a particular technology. You may find yourself trying a role that you hadn't originally considered... You may find that you love smaller start-ups rather than big enterprises, or perhaps the other way around."
