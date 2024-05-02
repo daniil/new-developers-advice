@@ -125,6 +125,8 @@ While some of this advice is, hopefully, universally applicable, I mostly share 
   - Don't even ask about jobs or if they are hiring, show interest in what they or their company do, what advice they have for looking for jobs or what they look for when they are hiring. 
   - As a nice side effect, connecting with people can always lead to them thinking of you when their company is hiring.
  
+- Additional to obvious job platforms like LinkedIn (which might, at times, have 100+ applicants for one role), consider looking for VC firms websites and look at their own job boards for earlier stage startups.
+ 
 - [Glassdoor Community](https://www.glassdoor.com/Community/index.htm) can be a great way to get some insights on the industry, as well as ask for specific help with resume / job search / etc.
 
 - For your resume and LinkedIn, where possible, [include action verbs and quantify your responsibilities](https://drexel.edu/scdc/professional-pointers/application-materials/resumes/experience-description/).
@@ -159,6 +161,8 @@ While some of this advice is, hopefully, universally applicable, I mostly share 
   -  Not all positions are created equally, so try to customize your application package as well, ie: resume, experience, cover letter, tech skills. Also while "Easy Apply" on LinkedIn can be tempting, don't hesitate to check out careers page on company website directly as that can help you apply with more personalized approach. 
   -  You might want to consider having a "low effort" and "high effort" split in your applications. Jobs you are most interested in, dedicate plenty of time to apply with utmost care. Positions that are "nice enough", but you still might wanna apply, you might want to do the quickest version of the application.
   -  Consider creating a job search spreadsheet (feel free to Google for template that fits your needs) to keep track of the process. Organization is key!
+ 
+- Consider applying for positions in tech companies that are not necessarily dev positions, but can get your foot in the door and you can then pivot later. Some examples are QA Testing, Technical Support, Data Engineering or Analytics, Technical Writing, CMS Authoring, Email Development.
 
 - Someone else's dream job is not guaranteed to be your dream job. We all find meaning in different things, at different parts of our life. Find what it is that fulfills you and gives you meaning at this point of your career and seek that out. Also, remember, that it is still just a job, it's OK to love it, it's OK to love things outside of your job that your job affords you.
 
